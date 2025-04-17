@@ -1,5 +1,5 @@
 // Replace this with your real Spotify OAuth Token
-const token = 'YOUR_SPOTIFY_ACCESS_TOKEN_HERE';
+const token = '1POdFZRZbvb...qqillRxMr2z';
 
 window.onSpotifyWebPlaybackSDKReady = () => {
   const player = new Spotify.Player({
